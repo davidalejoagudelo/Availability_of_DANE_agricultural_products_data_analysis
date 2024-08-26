@@ -1,0 +1,2 @@
+# Availability_of_DANE_agricultural_products_data_analysis
+Análisis de datos de disponibilidad de productor agrícolas
